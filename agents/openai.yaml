@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent-Operable System"
+  short_description: "Design systems that agents can safely operate"
+  default_prompt: "Use $agent-operable-system to design an agent-operable operations harness for this service."
