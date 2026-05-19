@@ -92,6 +92,8 @@ tmux kill-session -t agent-goal
 
 Use provider adapters so the harness can switch between Codex, Claude Code, or another CLI without changing the lifecycle.
 
+For detailed tmux/session/systemd helper behavior, `/goal` launch forms, and failure handling, use `skills/agent-tmux-harness/SKILL.md`.
+
 ## Context Builder
 
 Include:

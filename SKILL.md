@@ -77,6 +77,7 @@ Keep the agent plane and harness plane separate. The agent can inspect, reason, 
 - Read `references/harness-blueprint.md` when implementing the architecture in a repo.
 - Read `references/outbox-contract.md` when defining the completion schema, validator, and examples.
 - Read `references/ops-readiness-checklist.md` when reviewing whether a system is truly ready for agent operations.
+- Read `skills/agent-tmux-harness/SKILL.md` when the task is specifically about running Codex CLI or Claude Code in tmux, restarting tmux sessions, injecting `/goal` prompts, or diagnosing outbox timeouts.
 
 ## Output Expectations
 

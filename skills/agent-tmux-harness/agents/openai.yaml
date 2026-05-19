@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Tmux Harness"
+  short_description: "Operate tmux-backed Codex and Claude Code harness sessions"
+  default_prompt: "Use $agent-tmux-harness to restart or diagnose a tmux-backed AI CLI harness and verify the outbox contract."
